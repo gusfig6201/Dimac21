@@ -10,5 +10,8 @@
     'depends': [
         'base'
     ],
-    'application': True
+    'application': True,
+    'installable': True,
+    'license': 'MIT',
+    'auto_install': False
 }
